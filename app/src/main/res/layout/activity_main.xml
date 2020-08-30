@@ -13,7 +13,7 @@
         android:text="Hello World! Tap to test the alert" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/alert_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/alert_tv"
